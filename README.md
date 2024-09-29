@@ -1,5 +1,6 @@
-An application that can be used for background search.
+An application that can be used for background search. This is an implementation of one of  the design prompts described in the [Design Portfolio](https://github.com/baranasoftware/ux-design).
 
+Feel free to reach us at contact@baranasoftware.com to see how we can collaborate in your app design and implementation effort.
 
 ## Roadmap 
 - [ ] Document the UX design for the product
